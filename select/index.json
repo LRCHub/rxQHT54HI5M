@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おやすみパパママ",
+  "base_artist": "チョーキューメイ",
+  "createdAt": "2025-12-02T07:39:24.855523Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみパパママ",
+      "artist": "チョーキューメイ",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみパパママ_チョーキューメイ.txt"
+    }
+  ]
+}
